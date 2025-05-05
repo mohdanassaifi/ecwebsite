@@ -4,7 +4,7 @@ A simple front-end e-commerce website inspired by Flipkart. This project is buil
 
 ## 📸 Preview
 
-![Homepage Screenshot] ) <img src="<img src="https://via.placeholder.com/150" alt="Product Image" />
+![Homepage Screenshot] ) <img src="<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2n90sG3uFr6PSNqKOwF14Ye9GEXK1ceg_g&s" alt="Product Image" />
 " alt="Product Image" />
  <!-- Replace with your actual screenshot -->
 
